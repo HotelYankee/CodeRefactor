@@ -91,20 +91,28 @@ p {
     background-color: #2589bd;
 }
 
- .benefits {
-    margin-bottom: 32px;
+  .benefits {
+    margin-bottom: 20px;
+    margin-top: 28px;
     color: #ffffff;
-}
+} 
 
-.benefit-brand {
-    margin-bottom: 32px;
+ .benefit-brand {
+    margin-bottom: 20px;
+    margin-top: 28px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
+    margin-top: 28px;
     color: #ffffff; 
-}
+} 
+
+/* .benfits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+} */  
 
 .benefit-lead  h3 {
     margin-bottom: 10px;
